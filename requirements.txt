@@ -1,0 +1,12 @@
+streamlit>=1.40
+faster-whisper
+av==18.0.0
+numpy
+pandas
+pillow
+opencv-python-headless
+edge-tts
+gradio_client
+yt-dlp
+gdown
+requests
